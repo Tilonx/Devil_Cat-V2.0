@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348133286181"
+global.ownernomer = "233598275873"
 global.ownername = "Lord No Name"
 global.ytname = "YT: No-Name-Tech"
 global.socialm = "GitHub: Anime-King01"
 global.location = "Africa/Lagos"
 
-global.ownernumber = '2348133286181'  //creator number
+global.ownernumber = '233598275873'  //creator number
 global.ownername = 'Lord No Name' //owner name
 global.botname = 'Devil_Cat ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Lord No Name\n\nContact: +2348133286181'
+global.packname = 'Sticker Bay
+global.author = 'Lord No Name\n\nContact: +233598275873'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -67,7 +67,7 @@ global.mess = {
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
     error: 'Error!',
-}
+} 
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
 
